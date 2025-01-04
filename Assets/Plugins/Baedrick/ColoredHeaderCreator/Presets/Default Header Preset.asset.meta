@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31a699ca6be72de4aae2b1da8cfe954e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216385
+  packageName: Colored Hierarchy Headers
+  packageVersion: 2.1.r3
+  assetPath: Assets/Plugins/Baedrick/ColoredHeaderCreator/Presets/Default Header
+    Preset.asset
+  uploadId: 585361

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6883a452d91ea884e92348a146367833
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277813
+  packageName: Waypoint Route VFX
+  packageVersion: 1.0
+  assetPath: Assets/Waypoint_Route_VFX/FBX/Materials/Waypoint_Path_mtl.mat
+  uploadId: 645994

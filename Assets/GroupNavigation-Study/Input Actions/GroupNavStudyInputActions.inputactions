@@ -1,0 +1,102 @@
+{
+    "name": "GroupNavStudyInputActions",
+    "maps": [
+        {
+            "name": "Guide",
+            "id": "13cc9a63-8158-44d1-8cc9-43474b3d9b45",
+            "actions": [
+                {
+                    "name": "ToggleMenu",
+                    "type": "Button",
+                    "id": "1551a03c-56bd-4acf-b0a0-aae25ae183cd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "StartAudioGuide",
+                    "type": "Button",
+                    "id": "83aebdd5-e7cf-4d1f-b01e-a08687d521ea",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "StopAudioGuide",
+                    "type": "Button",
+                    "id": "e669d222-f3d8-4e31-933e-a2cd1bb74110",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1f7a5a69-b2fc-4646-962d-a31550d358d5",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "09f6e4e7-35cb-452f-b3a4-42dda3f88ed9",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StartAudioGuide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e5bca670-9fae-48bf-bafa-91fb0ebe67e2",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StopAudioGuide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Visitor",
+            "id": "4c5f481b-a89b-4868-8996-67e23bec904e",
+            "actions": [
+                {
+                    "name": "ConfirmPreviousPositionSelection",
+                    "type": "Button",
+                    "id": "b0731083-be8a-4d16-938d-4dccfb80c76f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "825eb18d-b284-4152-b478-715ecd965332",
+                    "path": "<XRController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ConfirmPreviousPositionSelection",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b961811ede26b204db201e6bc5c29a55
+timeCreated: 1473942630
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277813
+  packageName: Waypoint Route VFX
+  packageVersion: 1.0
+  assetPath: Assets/Waypoint_Route_VFX/FBX/Materials/PathStart_Glow_mtl.mat
+  uploadId: 645994

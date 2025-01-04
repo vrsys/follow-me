@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc5a6b3fb300868418f9f2dc6a11400f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277813
+  packageName: Waypoint Route VFX
+  packageVersion: 1.0
+  assetPath: Assets/Waypoint_Route_VFX/Scenes/Waypoint_Trail_PathCreatorVersion.unity
+  uploadId: 645994

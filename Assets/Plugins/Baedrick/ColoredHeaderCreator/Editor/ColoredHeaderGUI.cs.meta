@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2bd056ead3ad9a84dbd2f80323e78ab1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216385
+  packageName: Colored Hierarchy Headers
+  packageVersion: 2.1.r3
+  assetPath: Assets/Plugins/Baedrick/ColoredHeaderCreator/Editor/ColoredHeaderGUI.cs
+  uploadId: 585361

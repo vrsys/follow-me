@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c02f3bc3e81b36242a368268f078ebe3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216385
+  packageName: Colored Hierarchy Headers
+  packageVersion: 2.1.r3
+  assetPath: Assets/Plugins/Baedrick/ColoredHeaderCreator/Changelog.txt
+  uploadId: 585361

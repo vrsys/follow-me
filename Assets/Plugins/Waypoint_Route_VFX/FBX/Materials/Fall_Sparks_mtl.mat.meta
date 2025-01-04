@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8044826bb4c2724aaf33b48ebc02a57
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 277813
+  packageName: Waypoint Route VFX
+  packageVersion: 1.0
+  assetPath: Assets/Waypoint_Route_VFX/FBX/Materials/Fall_Sparks_mtl.mat
+  uploadId: 645994
