@@ -1,4 +1,6 @@
-# follow-me
+# Follow Me: Confirmation-based Group Navigation in Collocated Virtual Reality
+
+![TitlePicture](https://github.com/user-attachments/assets/ce6f8196-f654-4b66-8b4c-0d15efb2999d)
 
 This Unity3D projects contains the scripts and scenes that have been used for the user study reported in the paper "Follow Me: Confirmation-based Group Navigation in Collocated Virtual Reality".
 
